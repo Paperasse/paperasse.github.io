@@ -1,5 +1,9 @@
 body { 
     
-    padding-top: 100px;
-    /*font-size:  1em;*/
+    padding-top: 80px;
+    font-size:  1.6em;
+}
+
+nav.navbar {
+    font-size: 1em;
 }
